@@ -1,0 +1,9 @@
+## Interface: 30300
+## Title: My Item Tracker
+## Notes: Zeigt alle Items aller Chars
+## Author: Du
+## SavedVariables: MyItemTrackerDB  -- das ist der Schlüssel für accountweite Speicherung
+## SavedVariablesPerCharacter: false
+
+Core.lua
+UI.lua
