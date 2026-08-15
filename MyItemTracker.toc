@@ -2,8 +2,7 @@
 ## Title: My Item Tracker
 ## Notes: Zeigt alle Items aller Chars
 ## Author: Du
-## SavedVariables: MyItemTrackerDB  -- das ist der Schlüssel für accountweite Speicherung
-## SavedVariablesPerCharacter: false
+## SavedVariables: MyItemTrackerDB
 
 Core.lua
 UI.lua
